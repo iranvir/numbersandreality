@@ -1,6 +1,6 @@
 site_name: Numbers and Reality
 site_url: https://www.numbersandreality.com
-site_dir: public
+
 theme:
   name: material
   palette:
@@ -19,7 +19,6 @@ theme:
   - navigation.tabs.sticky
   - navigation.tracking
   - navigation.footer
-
   font:
     text: Merriweather
     code: Fira Mono
