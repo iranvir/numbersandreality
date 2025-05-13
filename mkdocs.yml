@@ -61,18 +61,3 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Computers:
-    - computers/index.md
-    - Linux:
-      - "1. Alpine Linux : First Setup": computers/linux/alpine-wsl.md
-      - "2. Alpine Linux : Clang" : computers/linux/clang-on-alpine.md
-      - "3. Alpine Linux : Go Lang" : computers/linux/go-lang-on-alpine.md
-      - "4. Alpine Linux : Rust Lang" : computers/linux/rust-lang-on-alpine.md
-      - "Multiple GitHub Account" : computers/linux/multiple-github-accounts.md
-      - "Automated WSL Setup" : computers/linux/wsl-setup.md
-
-
-
-
-
-
