@@ -1,10 +1,13 @@
 # Table of Contents
 
-## 1. Computers
-#### A. Linux System Administration
+## 1. Computers 
 
-1. Theory of Computation
-2. The C Programming Language
-3. The C Compiler flags for GCC, MSVC and Clang
+### A. Theory of Computation
+1. Finite Automata
 
+### B. Programming
+1. The C Programming Language
+2. The C Compiler flags for GCC, MSVC and Clang
+3. Makefiles, Autoconf and Automake
 
+### C. Systems Administration and Analysis
